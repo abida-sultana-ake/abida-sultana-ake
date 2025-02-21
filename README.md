@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abida-sultana-ake&show_icons=true&locale=en" alt="abida-sultana-ake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&" alt="abida-sultana-ake" /></p>
+
