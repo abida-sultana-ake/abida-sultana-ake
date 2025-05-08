@@ -18,7 +18,7 @@
 - 🌱 Learning: **JavaScript**, **ReactJS**, **Tailwind CSS**, and **Firebase**
 - 🧠 Passionate about **clean design**, **accessibility**, and building **fast, user-friendly** web apps
 - 🎯 Goal: To become a **Full Stack Developer**
-- 🔥 Fun Fact: _"Cry while coding or die trying!"_ 😅
+- 🔥 Fun Fact: **I’m not a magician, but I can definitely turn coffee into code! ☕💻**
 
 ---
 
