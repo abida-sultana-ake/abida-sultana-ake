@@ -2,10 +2,13 @@
 <h3 align="center">🎓 CSE Student | 💻 Future Web Engineer | 🌐 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7005C&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Passionate+about+Frontend+Development;Exploring+JavaScript+and+React;Love+clean+design+%26+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7005C&center=true&vCenter=true&width=500&lines=Passionate+about+Frontend+Development;Exploring+JavaScript+and+React;Loves+clean+design+%26+code!" alt="Typing SVG" />
 </p>
 
+</p>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+
+
 
 ### 🌱 Currently Learning:
 - JavaScript (DOM, ES6+)
@@ -57,11 +60,3 @@
 > I believe **learning by building** is the best way to grow as a developer.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight" alt="streak stats" />
-</p>
-
-
----
-
