@@ -50,7 +50,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abida-sultana-ake&show_icons=true&theme=tokyonight" alt="github stats"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abida-sultana-ake&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
