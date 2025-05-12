@@ -30,6 +30,24 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abida-sultana-ake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🥇 My GitHub Achievement Badges
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO Achievement" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Achievement" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="80" />
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 #### Languages, Frameworks & Libraries
