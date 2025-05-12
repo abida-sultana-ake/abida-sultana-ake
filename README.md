@@ -30,14 +30,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abida-sultana-ake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🥇 My GitHub Achievement Badges
 
 <p align="center">
