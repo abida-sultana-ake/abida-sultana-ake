@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br><b>Tailwind</b>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br><b>Tailwind</b>
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" /><br><b>Firebase</b>
@@ -113,12 +113,14 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
+### 📈 GitHub Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abida-sultana-ake&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/38BDF8/abida-sultana-ake" alt="GitHub Chart" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abida-sultana-ake&theme=tokyonight" />
 </p>
 
 ---
-
-
