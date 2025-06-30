@@ -83,7 +83,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /><br><b>Windows</b>
     </td>
     <td align="center" width="130">
-      <img src="https://www.svgrepo.com/show/354202/vercel-icon.svg" width="50" /><br><b>Vercel</b>
+      <img src="https://assets.vercel.com/image/upload/v1669992921/front/favicon/vercel/180x180.png" width="50" /><br><b>Vercel</b>
     </td>
     <td align="center" width="130">
       <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" /><br><b>Netlify</b>
@@ -116,11 +116,10 @@
 ### 📈 GitHub Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br><br>
-  <img src="https://ghchart.rshah.org/38BDF8/abida-sultana-ake" alt="GitHub Chart" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abida-sultana-ake&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abida-sultana-ake&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
+
