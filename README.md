@@ -34,62 +34,63 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br><b>HTML5</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br><b>CSS3</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br><b>JavaScript</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br><b>React</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br><b>Tailwind</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" /><br><b>Firebase</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><br><b>Java</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br><b>C</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br><b>C++</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br><b>Git</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br><b>GitHub</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br><b>VS Code</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" /><br><b>Figma</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /><br><b>Windows</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://assets.vercel.com/image/upload/v1669992921/front/favicon/vercel/180x180.png" width="50" /><br><b>Vercel</b>
     </td>
-    <td align="center" width="130">
+    <td align="center" width="130" style="border:1px solid #e1e4e8; border-radius:10px; padding:10px;">
       <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" /><br><b>Netlify</b>
     </td>
   </tr>
 </table>
+
 
 ---
 
