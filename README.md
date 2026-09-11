@@ -179,15 +179,6 @@ The goal is to support developers in understanding clone relationships and decid
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abida-sultana-ake&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abida-sultana-ake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
-</div>
-
----
-
 ### 📈 Contributions & Activity
 
 <p align="center">
