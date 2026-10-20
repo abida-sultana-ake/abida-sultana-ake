@@ -1,210 +1,179 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Abida+Sultana+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
-<h3 align="center">Aspiring Researcher in AI, Secure Software & Intelligent Systems</h3>
+# Hi there, I'm Abida Sultana 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abida-sultana-ake&label=Profile+Views&color=38BDF8" alt="Profile Views" />
-</p>
-
----
-
-### 👩‍💻 About Me
-
-* 🎓 Computer Science & Engineering undergraduate at **University of Liberal Arts Bangladesh (ULAB)**
-* 🔬 Currently exploring **Artificial Intelligence, Machine Learning, Deep Learning, and Secure Software Engineering**
-* 🧠 Interested in **AI-based Security, Software Supply Chain Security, Code Analysis, and Intelligent Software Systems**
-* 💻 Building projects with **React, Node.js, Express.js, MongoDB, Firebase, and REST APIs**
-* 📚 Currently developing my foundation in **AI/ML and research methodology**
-* 🔎 Exploring research problems around **code intelligence, software maintenance, and explainable AI**
-* 🚀 Working toward becoming a **research-oriented software engineer**
-* ☕ Fun fact: **Still turning coffee into code and research ideas!**
-
----
-
-### 🔬 Research Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-38BDF8?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-F97316?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Security-22C55E?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Security-E11D48?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Aspiring+AI+Researcher+%F0%9F%A7%A0;Exploring+Secure+Software+Engineering+%F0%9F%94%90;Building+Intelligent+Software+Systems+%F0%9F%92%BB;Learning+%E2%80%A2+Building+%E2%80%A2+Researching+%F0%9F%9A%80" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <b>Code Analysis</b> •
-  <b>Software Supply Chain Security</b> •
-  <b>Secure Software Engineering</b> •
-  <b>Explainable AI</b> •
-  <b>Intelligent Software Systems</b>
+  <a href="https://github.com/abida-sultana-ake">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/abida-sultana-b7b3082b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abida.sultana.ake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abida-sultana-ake&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-### 🧪 Current Research & Projects
+## ✦ About Me
 
-#### 🔹 Explainable Cross-Language Clone Analysis
+I'm a **Computer Science and Engineering undergraduate at the University of Liberal Arts Bangladesh (ULAB)**, passionate about building intelligent software and exploring research problems at the intersection of AI and software security.
 
-Working on a research-oriented project focused on **Java–Python cross-language code clone analysis**, with emphasis on:
+My goal is to combine software engineering, machine learning, and explainable AI to develop systems that are not only intelligent, but also secure, understandable, and useful in real-world development.
 
-`Detection → Verification → Maintenance Prioritization → Action Recommendation → Explanation`
+- 🎓 CSE undergraduate at ULAB
+- 🧠 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
+- 🔬 Interested in Explainable AI and intelligent code analysis
+- 🔐 Exploring AI-driven security and software supply chain security
+- 💻 Building projects with modern web technologies and APIs
+- 🧪 Working on research-oriented cross-language code clone analysis
+- 🌱 Continuously strengthening my foundations in AI/ML and research methodology
 
-The goal is to support developers in understanding clone relationships and deciding which code similarities may require attention.
-
-**Current areas:**
-
-* Cross-language clone detection
-* Code embeddings
-* Machine-learning-based verification
-* Code metrics and structural analysis
-* Maintenance prioritization
-* Explainable predictions
+> *Curious by nature. Research-driven by ambition. Building one step at a time.*
 
 ---
 
-### 💻 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>
-      <b>HTML5</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br>
-      <b>CSS3</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br>
-      <b>React</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /><br>
-      <b>Node.js</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" /><br>
-      <b>Express.js</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /><br>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" /><br>
-      <b>Firebase</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br>
-      <b>Python</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><br>
-      <b>Java</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br>
-      <b>C++</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br>
-      <b>C</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>
-      <b>Git</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br>
-      <b>VS Code</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" /><br>
-      <b>Figma</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧰 Tools & Platforms
+## 🔬 Research Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0EA5E9?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-6366F1?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Explainable_AI-8B5CF6?style=for-the-badge" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/AI_Security-10B981?style=for-the-badge" alt="AI Security" />
+  <img src="https://img.shields.io/badge/Software_Analysis-F97316?style=for-the-badge" alt="Software Analysis" />
+</p>
+
+<p align="center">
+  <b>Code Intelligence</b> · <b>Cross-Language Clone Detection</b> ·
+  <b>Software Maintenance</b> · <b>Secure Software Engineering</b> ·
+  <b>Software Supply Chain Security</b>
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🧪 Featured Research Project
+
+### Beyond Clone Detection: An Explainable Multi-Language Framework for Clone Analysis and Maintenance Decision Support
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hult%20Prize-2nd%20Runner--Up-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ULAB%20CSE%20Project%20Showcase-1st%20Place-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon%20Valley-2nd%20Place-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Software_Engineering-0EA5E9?style=flat-square" alt="Software engineering research" />
+  <img src="https://img.shields.io/badge/Focus-Explainable_AI-8B5CF6?style=flat-square" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/Languages-Java_%26_Python-F59E0B?style=flat-square" alt="Java and Python" />
+</p>
+
+I'm exploring how code intelligence and machine learning can help developers identify, verify, understand, and prioritize code clones across programming languages.
+
+**The framework's core workflow:**
+
+```text
+Cross-Language Code Analysis
+             ↓
+      Clone Detection
+             ↓
+    Candidate Verification
+             ↓
+  Maintenance Prioritization
+             ↓
+    Action Recommendation
+             ↓
+     Explainable Insights
+```
+
+**Research focus areas**
+
+- 🔍 Identifying potential Java–Python code clone relationships
+- 🧩 Exploring semantic code representations and embeddings
+- 🤖 Investigating machine-learning-based clone verification
+- 📊 Combining code metrics with structural and semantic information
+- 🎯 Prioritizing clones for potential maintenance attention
+- 💡 Making analysis results more interpretable and actionable
+
+**Long-term vision:** Move beyond identifying similar code toward helping developers understand why similarities matter and what actions may be appropriate.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark" alt="Python, Java, C++, C, JavaScript" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,firebase&theme=dark" alt="HTML, CSS, React, Node.js, Express, MongoDB, Firebase" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" alt="Git, GitHub, VS Code, Figma, Vercel, Netlify" />
+</p>
+
+### Current Learning Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python_for_AI%2FML-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python for AI and ML" />
+  <img src="https://img.shields.io/badge/ML_Fundamentals-8B5CF6?style=flat-square" alt="Machine learning fundamentals" />
+  <img src="https://img.shields.io/badge/Research_Methodology-0EA5E9?style=flat-square" alt="Research methodology" />
+  <img src="https://img.shields.io/badge/Code_Embeddings-10B981?style=flat-square" alt="Code embeddings" />
 </p>
 
 ---
 
-### 🥇 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO Achievement" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Achievement" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="80" />
+  <img src="https://img.shields.io/badge/Hult_Prize-2nd_Runner--Up-38BDF8?style=for-the-badge" alt="Hult Prize second runner-up" />
+  <img src="https://img.shields.io/badge/ULAB_CSE_Project_Showcase-1st_Place-8B5CF6?style=for-the-badge" alt="ULAB CSE Project Showcase first place" />
+  <img src="https://img.shields.io/badge/Hackathon_Valley-2nd_Place-F97316?style=for-the-badge" alt="Hackathon Valley second place" />
 </p>
 
 ---
 
-### 📈 Contributions & Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abida-sultana-ake&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abida-sultana-ake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abida-sultana-ake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abida-sultana-ake&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+## 🤝 Let's Connect
+
+I'm always happy to connect with people interested in AI research, software engineering, code intelligence, and meaningful technology projects.
 
 <p align="center">
   <a href="mailto:abida.sultana.ake@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
   <a href="https://linkedin.com/in/abida-sultana-b7b3082b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://www.hackerrank.com/abida_sultana_a1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" alt="Blue gradient footer" />
+</p>
 
 <p align="center">
-  <i>“Learning, building, researching, and improving — one commit at a time.”</i>
+  <i>"Build with curiosity. Research with purpose. Improve with every iteration."</i>
 </p>
