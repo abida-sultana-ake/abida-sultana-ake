@@ -5,16 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abida-sultana-ake">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/abida-sultana-b7b3082b2">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abida.sultana.ake@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abida-sultana-ake&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
+  <p align="center">
+  <a href="https://github.com/abida-sultana-ake">
+    <img
+      src="https://img.shields.io/badge/GitHub-Visit_My_Profile-38BDF8?style=for-the-badge&logo=github&logoColor=white"
+      alt="Visit my GitHub profile"
+    />
+  </a>
+</p>
 </p>
 
 ---
@@ -148,8 +152,14 @@ Cross-Language Code Analysis
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </p>
 
+<h3 align="center">📊 GitHub Contribution Summary</h3>
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abida-sultana-ake&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abida-sultana-ake&theme=tokyonight"
+    alt="GitHub contribution summary"
+    width="95%"
+  />
 </p>
 
 ---
