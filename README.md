@@ -152,7 +152,7 @@ Cross-Language Code Analysis
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abida-sultana-ake&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </p>
 
-<h3 align="center">📊 GitHub Contribution Summary</h3>
+## 📊 GitHub Contribution Summary
 
 <p align="center">
   <img
