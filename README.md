@@ -73,20 +73,29 @@ I'm exploring how code intelligence and machine learning can help developers ide
 
 **The framework's core workflow:**
 
-```text
-Cross-Language Code Analysis
-             ↓
-      Clone Detection
-             ↓
-    Candidate Verification
-             ↓
-  Maintenance Prioritization
-             ↓
-    Action Recommendation
-             ↓
-     Explainable Insights
-```
+```mermaid
+flowchart TD
+    A["01 · Cross-Language<br/>Code Analysis"]
+    B["02 · Clone Detection"]
+    C["03 · Candidate Verification"]
+    D["04 · Maintenance Prioritization"]
+    E["05 · Action Recommendation"]
+    F["06 · Explainable Insights"]
 
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+
+    classDef start fill:#172554,stroke:#38BDF8,color:#FFFFFF,stroke-width:2px
+    classDef process fill:#111827,stroke:#64748B,color:#F8FAFC,stroke-width:1.5px
+    classDef finish fill:#312E81,stroke:#A78BFA,color:#FFFFFF,stroke-width:2px
+
+    class A start
+    class B,C,D,E process
+    class F finish
+```
 **Research focus areas**
 
 - 🔍 Identifying potential Java–Python code clone relationships
