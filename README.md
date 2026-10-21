@@ -1,4 +1,4 @@
-# Hi there, I'm Abida Sultana 👋
+# Hi there, I'm Abida Sultana 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Aspiring+AI+Researcher+%F0%9F%A7%A0;Exploring+Secure+Software+Engineering+%F0%9F%94%90;Building+Intelligent+Software+Systems+%F0%9F%92%BB;Learning+%E2%80%A2+Building+%E2%80%A2+Researching+%F0%9F%9A%80" alt="Typing introduction" />
